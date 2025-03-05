@@ -1,0 +1,25 @@
+.f {
+  font-size: 13px;
+  color: black;
+}
+.b {
+  background-color: rgb(251, 251, 251);
+  border-radius: 40px !important;
+}
+.c {
+  color: rgb(128, 0, 0);
+}
+.custom-modal {
+  border-radius: 20px; /* Make it look like a card */
+  border-top: 4px solid red; /* Remove default borders */
+  background-color: white;
+}
+
+.ft-color {
+  background-color: rgb(251, 251, 251);
+  border-radius: 20px;
+}
+.a{
+    color: black !important;
+    font-weight: 700 !important;
+}
