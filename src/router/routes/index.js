@@ -29,9 +29,6 @@ const Home = lazy(() => import("../../views/Home"));
 const SecondPage = lazy(() => import("../../views/SecondPage"));
 const Login = lazy(() => import("../../views/Login"));
 const Signup = lazy(() => import("../../views/signup"));
-const Register = lazy(() => import("../../views/Register"));
-const ForgotPassword = lazy(() => import("../../views/ForgotPassword"));
-const Error = lazy(() => import("../../views/Error"));
 
 // ** Merge Routes
 const Routes = [
